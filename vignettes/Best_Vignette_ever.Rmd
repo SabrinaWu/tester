@@ -1,0 +1,20 @@
+---
+title: "This is my Vignette"
+author: "Sabrina"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{This is my Vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(tester)
+```

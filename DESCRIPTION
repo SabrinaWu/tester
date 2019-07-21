@@ -12,3 +12,11 @@ LazyData: true
 RoxygenNote: 6.1.1
 URL: https://github.com/SabrinaWu/tester
 BugReports: https://github.com/SabrinaWu/tester/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    tibble,
+    dplyr,
+    utils
