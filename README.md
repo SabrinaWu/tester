@@ -9,6 +9,8 @@
 status](https://travis-ci.com/SabrinaWu/tester.svg?branch=master)](https://travis-ci.com/SabrinaWu/tester)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/SabrinaWu/tester?branch=master&svg=true)](https://ci.appveyor.com/project/SabrinaWu/tester)
+[![Codecov test
+coverage](https://codecov.io/gh/SabrinaWu/tester/branch/master/graph/badge.svg)](https://codecov.io/gh/SabrinaWu/tester?branch=master)
 <!-- badges: end -->
 
 The goal of tester is to provide functionality for my package. These
