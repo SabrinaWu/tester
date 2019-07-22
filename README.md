@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/SabrinaWu/tester.svg?branch=master)](https://travis-ci.org/SabrinaWu/tester)
 <!-- badges: end -->
 
 The goal of tester is to provide functionality for my package. These
